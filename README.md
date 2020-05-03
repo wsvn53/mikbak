@@ -57,4 +57,4 @@ will save to [myros-2020xxxx.backup].
 
 ## License
 
-MIT.
+The MIT License (MIT).
